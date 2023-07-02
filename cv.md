@@ -53,3 +53,15 @@ function drawTable(col, row) {
 ```
 ---
 
+### Courses:
+
+- "Introduction to Computer Science" | CS50 
+- "Basic of programing in Python" | IT Nation 2.0 by United Nations Global Compact
+2022
+
+---
+
+### Languages:
+
+- English \- Intermediate
+- Ukrainian \- Native
