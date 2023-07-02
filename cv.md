@@ -17,3 +17,39 @@ responsibility for work and always bring it to
 the end and on time. I specialize in Front-End
 cross-browser development, responsive,
 animation, valid.
+
+---
+
+### Skills:
+
+- HTML5, CSS3, SASS/SCSS
+- JavaScript
+- React
+- SQL
+- Git, GitHub
+- VS Code, IntelliJ IDEA
+- Adobe Photoshop, Figma
+
+---
+
+### Code example:
+
+
+```javascript
+function drawTable(col, row) {
+			document.write('<table border="1">');
+			for (let i = 0; i < row; i++) {
+				document.write('<tr>');
+				for (let j = 0; j < col; j++) {
+					let text = prompt(`Enter text for row ${i + 1} and column ${j + 1}:`);
+					document.write(`<td>${text}</td>`);
+				}
+				document.write('</tr>');
+			}
+			document.write('</table>');
+		}
+
+		drawTable(5, 5); 
+```
+---
+
