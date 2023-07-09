@@ -1,1 +1,1 @@
-https://seerteel.github.io/rsschool-cv/
+https://seerteel.github.io/rsschool-cv/cv
